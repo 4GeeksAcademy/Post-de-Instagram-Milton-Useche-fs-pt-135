@@ -1,0 +1,70 @@
+body{
+    background: black;
+    font-family: 'Roboto', sans-serif;
+}
+
+.post{
+    background-color: white;
+    max-width: 500px;
+    margin: 0 auto;
+    margin-top: 50px;
+    
+}
+
+header{
+    padding: 5px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.Dizquierda{
+    display: flex;
+    align-items: center;
+}
+
+.html5{
+    width: 30px;
+    margin-right: 5px;
+}
+
+.Header-etiqetas h3 , p{
+    margin: 0px;
+}
+
+.Dderecha{
+    align-items: center;
+    display: flex;
+}
+.Dderecha img{
+    width: 30px;
+}
+
+
+.imagen img{
+    width: 100%;
+    height: 100%;
+}
+
+
+.post-actions{
+    display: flex;
+    padding: 5px;
+    justify-content: space-between;
+}
+
+.post-actions-izquierda{
+    display: flex;
+}
+
+.icons-footer{
+    width: 30px;
+    margin-right: 5px;
+}
+
+footer{
+    padding: 5px;
+}
+
+footer p{
+    padding: 5px;
+}
